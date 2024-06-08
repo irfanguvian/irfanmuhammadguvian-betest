@@ -40,6 +40,7 @@ Create a .env file in the root directory of both auth-service and user-service a
 ### Postman Collection
 
 To help you test the API endpoints, a Postman collection is available for download [here](https://drive.google.com/file/d/1f30MhZ2wbLKNBaQ4CV15Cqebokdz0Lqm/view?usp=sharing).
+you can also test the api by change the url variable in postman to http://103.67.78.239
 
 ### Built With 
 * [Node.js](https://nodejs.org/) 
